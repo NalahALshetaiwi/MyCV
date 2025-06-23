@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: #fff0f5;
+    background: #fff6fb;
     color: #444;
 }
 
@@ -10,9 +10,9 @@ body {
     margin: 40px auto;
     background: #ffffff;
     padding: 40px;
-    box-shadow: 0 0 30px rgba(255, 182, 193, 0.3);
+    box-shadow: 0 0 30px rgba(255, 182, 193, 0.2);
     border-radius: 12px;
-    border: 2px solid #ffe4ec;
+    border: 2px solid #ffe9f2;
 }
 
 .header {
@@ -23,12 +23,12 @@ body {
 .header h1 {
     margin-bottom: 10px;
     font-size: 2.8em;
-    color: #d63384;
+    color: #e35d9f;
 }
 
 .header .tagline {
     font-style: italic;
-    color: #7a7a7a;
+    color: #777;
 }
 
 .content {
@@ -41,14 +41,14 @@ body {
     background: #fffafd;
     padding: 20px 25px;
     border-radius: 10px;
-    border: 1px solid #f8c5d3;
-    box-shadow: 0 3px 10px rgba(255, 192, 203, 0.15);
+    border: 1px solid #f8d4e0;
+    box-shadow: 0 3px 10px rgba(255, 192, 203, 0.1);
 }
 
 .card h2 {
     margin-top: 0;
-    color: #c2185b;
-    border-bottom: 1px dashed #f5b7c3;
+    color: #d84d8f;
+    border-bottom: 1px dashed #f3c3d3;
     padding-bottom: 6px;
     margin-bottom: 10px;
     font-size: 1.2em;
@@ -60,11 +60,11 @@ body {
 
 .card i {
     margin-right: 8px;
-    color: #d63384;
+    color: #e169a5;
 }
 
 a {
-    color: #c2185b;
+    color: #d24c8d;
     text-decoration: none;
 }
 
